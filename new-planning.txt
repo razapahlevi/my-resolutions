@@ -3,6 +3,8 @@ PERENCANAAN BARU
 - Belajar coding dengan konsisten
   * Menggunakan bahasa javascript
   * Belajar framework javascript
+    ^ Angular
 - Belajar bahasa baru
+  ^ PHP
 - Berolahraga
-- Lulus tepat waktu
+
