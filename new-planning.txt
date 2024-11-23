@@ -7,5 +7,6 @@ PERENCANAAN BARU
     ^ Node JS
 - Belajar bahasa baru
     ^ Php
+    ^ Golang
 - Berolahraga
 
