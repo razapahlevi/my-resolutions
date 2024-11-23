@@ -8,4 +8,4 @@ PERENCANAAN BARU
 - Belajar bahasa baru
     ^ Php
 - Berolahraga
-- Lulus tepat waktu
+
