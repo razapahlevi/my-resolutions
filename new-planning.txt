@@ -4,6 +4,7 @@ PERENCANAAN BARU
   * Menggunakan bahasa javascript
   * Belajar framework javascript
     ^ React JS
+    ^ Node JS
 - Belajar bahasa baru
     ^ Php
 - Berolahraga
